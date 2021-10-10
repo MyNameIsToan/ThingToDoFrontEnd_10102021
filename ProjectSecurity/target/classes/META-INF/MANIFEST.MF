@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Tin
+Build-Jdk: 11.0.2
+Implementation-Title: ProjectSecurity
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.projectsecurity
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/ProjectSecuri
+ ty/
+Created-By: Maven Integration for Eclipse
+

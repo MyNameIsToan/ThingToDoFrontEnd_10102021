@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap');
+.ComponentArea{
+  background-image: url('../../../assets/Background.jpg');
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 50em;
+    height:30em;
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+.container h1{
+    margin-top: 1em;
+    text-align: center;
+    color: black;
+}
+
+.content{
+    margin-top: 3em;
+    width: 100%;
+    height: 25.3em;
+    border-radius: 2.2em;
+}
+
+.Box{
+    width: 100%;
+    height: 3em;
+    background-color: #d9d9d9;
+}
+
+
+#BoxContent{
+    border: solid black 2px;
+    width: 100%;
+    height: 25em;
+    background-color: white;
+    overflow-y: auto;
+}
+
+.Button{
+    padding: 1em;
+    height: 1em;
+    width: 15%;
+}
+button{
+    display: inline-block;
+    font-size: 0.8em;
+    width: 6em;
+    text-align: center;
+    border-radius: 1em;
+}
+
+button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+.Confirmation{
+  height: 9em;
+  width: 35em;
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  transform: translate(-50%, -50%);
+  border-radius: 1em;
+  border: solid black 1px;
+  padding: 1em;
+  text-align: center;
+}
+
+
+
+
